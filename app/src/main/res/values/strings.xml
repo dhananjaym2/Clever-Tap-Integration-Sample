@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Clever Tap Integration Sample</string>
+    <string name="LogProductViewedEvent">Log product viewed event</string>
+    <string name="Name">Name</string>
+    <string name="logUserInfo">Log User Info</string>
+    <string name="emptyName">Please enter a valid name.</string>
+    <string name="EmailAddress">Email address</string>
+    <string name="emptyEmail">Please enter email address</string>
+    <string name="invalidEmail">Please enter a valid email address!</string>
+    <string name="enablePushNotifications">Enable Push Notifications</string>
 </resources>
